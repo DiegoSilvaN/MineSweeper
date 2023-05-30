@@ -1,0 +1,46 @@
+body{
+    background-color: #dfff96;
+    color: black;
+    font-family: 'Courier New';
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    height: 100vh;
+    overflow: hidden;
+
+}
+
+h1{
+
+    font-size: 30pt;
+    font-weight: 400px;
+}
+
+#grid{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#grid tr td{
+    border: 1px solid whitesmoke;
+    background-color: black;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+}
+
+#grid tr td.active{
+    background-color: whitesmoke;
+}
+
+#grid tr td.mina{
+    background-color: red;
+}
+
+#button{
+    margin: 12px, 0;
+    padding: 4px, 0;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
