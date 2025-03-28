@@ -1,4 +1,4 @@
-# MineSweeper
-A simple minesweeper built with Html, Css and JS
+# MineSweeper  
+A simple minesweeper built with Html, Css and JS  
 
-![Alt](image)
+![Alt](MineSweeper.jpg)
